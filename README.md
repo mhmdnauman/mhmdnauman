@@ -38,26 +38,37 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, No
 
  ### :hammer_and_wrench: Languages and Tools :
  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Mongo" **alt="MongoDb" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="EX" **alt="EX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" **alt="Php" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="AS" **alt="AS" width="40" height="40"/>&nbsp;
+  
 </div>
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mhmdnauman)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdnauman)](https://github.com/mhmdnauman/github-readme-stats)
+
+[![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmdnauman)](https://github.com/mhmdnauman/github-readme-stats)
 
 ### Projects
 
 Here are a few notable projects I've worked on:
 
-1. **Project One:** Brief description and link to the project repository.
-2. **Project Two:** Brief description and link to the project repository.
-3. **Project Three:** Brief description and link to the project repository.
+1. **Geo-fencing-Marketing-for-Fast-Food-and-Restaurants:** Couch Potato is an innovative mobile application designed to revolutionize the way restaurants interact with their customers. This project combines geofencing marketing, semantic analysis of customer comments, and web scraping techniques to provide restaurants with valuable insights and enhanced marketing capabilities..
+2. **DocRising (A Doctor Appointment System):** DocRising - MERN Stack Doctor Appointment System DocRising is a modern and efficient Doctor Appointment System built using the MERN (MongoDB, Express, React, Node.js) stack. It provides a comprehensive platform for patients to conveniently schedule appointments with doctors and manage their healthcare needs.
+3. **Doctor Appointment System:** The Doctor Appointment System is a web-based application developed using PHP, designed to facilitate the efficient scheduling and management of appointments between doctors and patients. This system provides a convenient and user-friendly interface for both doctors and patients to effectively manage their appointments online.
+4. **Library Management System:** The Library Management System is a desktop application developed using Java, designed to automate and simplify the management of a library's resources and operations. This system provides librarians and library staff with a comprehensive set of tools to efficiently handle tasks.
 
 Feel free to explore my repositories to see the code and implementation details of these projects and more!
 
