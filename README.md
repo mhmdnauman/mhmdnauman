@@ -18,9 +18,9 @@
 </h1>
 
 
-## MERN Stack Developer | Full Stack Web Developer
+## MERN Stack Developer | Full Stack Web and Mobile App Developer
 
-Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, Node.js) stack developer with a strong background in full-stack web development. I love building robust and scalable web applications using the latest technologies and industry best practices.
+Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, Node.js) stack developer with a strong background in full-stack Web and Mobile App development. I love building robust and scalable web applications using the latest technologies and industry best practices.
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
