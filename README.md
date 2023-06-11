@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate MERN (MongoDB, Express, React, No
 
 ### Skills
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and mobile applications.
   - Frontend: HTML, CSS, JavaScript, React.js, React Native  
   - Backend: Node.js, Express, MongoDB, RESTful APIs
   - Database: MongoDB, MySQL
